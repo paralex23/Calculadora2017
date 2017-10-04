@@ -1,4 +1,4 @@
-# Carlos A.
+# Carlos A. Hernandez
 class Calculadora():
 	
 	def __init__(self):
